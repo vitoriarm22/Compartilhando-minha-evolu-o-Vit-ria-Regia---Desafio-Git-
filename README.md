@@ -1,80 +1,46 @@
 # Compartilhando-Minha-Evolucao-Vitoria-Regia-
 Desafio GIT/GITHUB
 
-# Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+<h1 align="center">
+  💻<br>Portfólio - Vitória Regia
+</h1>
 
-# Sobre o projeto
+![Resultado final do projeto](https://mundoconectado.com.br/uploads/chamadas/capa-programacao.jpg)
 
-https://wmazoni-sds1.netlify.app
+<h4 align="center"><a href="https://www.linkedin.com/in/vitoriarm22/">Clique para visitar o linkedin</a></h4>
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+## 📚 Seções
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+O site é composto por cinco seções:
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+- **Home:** Nele temos uma breve apresentação;
+- **Quem sou:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
+- **Experiências:** Em busca da primeira experiência;
+- **Projetos:** Nesse Github vou demostrar minha evolução;
+- **Serviços:** Exibe através de cards os diferentes serviços em que possuo conhecimentos;
+- **Conhecimentos:** Nele apresentamos meus conhecimentos em algumas linguagens como o foco no Java,JavaScrio;
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+---
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+## 💼 Tecnologias em Apredizado.
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
-# Tecnologias utilizadas
-## Back end
 - Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- JavaScript;
+- C#
 
-# Como executar o projeto
+---
 
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
-
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vitoriarm22">
+        <img src="https://blog.caiena.net/content/images/2019/09/ruby-empowers-1.jpg" width="100px;" alt="Foto do Vitória Régia no GitHub"/><br>
+        <sub>
+          <b>Vitória Régia</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
