@@ -1,5 +1,4 @@
-# Compartilhando-Minha-Evolucao-Vitoria-Regia-
-Desafio GIT/GITHUB
+# Compartilhando-Minha-Evolucao-Vitoria-Regia
 
 <h1 align="center">
   💻<br>Portfólio - Vitória Regia
